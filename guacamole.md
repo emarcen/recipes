@@ -1,4 +1,4 @@
-Recipe by Person B :)
+New Recipe by Person B 
 #Ingredients
 -avocado
 -lime
